@@ -1,6 +1,6 @@
 <div align="center">
 
-House of Developers Hackathon
+# House of Developers Hackathon
 
 <img src="./header.png" alt="hackathon banner"/>
 
